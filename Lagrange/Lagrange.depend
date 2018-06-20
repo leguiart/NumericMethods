@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444804974 source:c:\users\luis\documents\unam_ing\tercer semestre\programacion avanzada y metodos numericos\lagrange\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

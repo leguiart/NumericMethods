@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441173077 source:c:\users\luis\documents\unam_ing\tercer semestre\programacion avanzada y metodos numericos\metodo de biseccion\main.c
+	<stdio.h>
+	<math.h>
+
